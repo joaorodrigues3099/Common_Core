@@ -1,0 +1,24 @@
+# ninja log v6
+29	51	1729697145616534800	CMakeFiles/Libft.dir/srcs/ft_strchr.c.o	301e88db5b4e446
+2	29	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_strlen.c.o	3d90f778c077998b
+1	34	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_bzero.c.o	15fb75119393e1fa
+3	30	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_toupper.c.o	7c0feeb1598ab120
+1	34	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_isprint.c.o	b2d964430994c512
+2	32	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_memset.c.o	16901b41f9ba2a9e
+1	33	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_isalnum.c.o	e2981846b8e93659
+1	32	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_isalpha.c.o	cfc6c0f6d0984573
+1	32	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_isascii.c.o	f8a418d675d613e6
+2	35	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_strlcat.c.o	a5464e932c0b620c
+1	34	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_memcpy.c.o	fc3470068d4ae435
+30	58	1729697145616534800	CMakeFiles/Libft.dir/srcs/ft_strrchr.c.o	bba9e6ec88383b9
+3	50	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_tolower.c.o	9357cbcf50496d2f
+2	35	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_strlcpy.c.o	6f1b56ecdf572032
+1	31	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_isdigit.c.o	3afb520d075da24e
+32	59	1729697145616534800	CMakeFiles/Libft.dir/srcs/ft_memchr.c.o	ecc0b539704f5ee9
+0	14	1729704934266264450	build.ninja	82478997eef884c9
+2	35	1729697145588534582	CMakeFiles/Libft.dir/srcs/ft_memmove.c.o	58b39c2577fa2a73
+1	21	1729698613428436209	CMakeFiles/Libft.dir/srcs/ft_strnstr.c.o	2d3ee6902db57557
+32	54	1729697145616534800	CMakeFiles/Libft.dir/srcs/ft_strncmp.c.o	4cb67aa05eb2b121
+22	36	1729697255045388573	Libft	2cadf9c060e45538
+32	53	1729697145616534800	CMakeFiles/Libft.dir/srcs/ft_memcmp.c.o	cde95eedb5e3ac81
+1	21	1729698613428436209	CMakeFiles/Libft.dir/srcs/ft_atoi.c.o	ca94d02fd77bf632
